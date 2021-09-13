@@ -22,7 +22,7 @@ zipkin:
           enabled: true
   sleuth:
     sampler:
-      percentage: 1.0
+      percentage: 0.9
 spring:
   application:
     name: eurekaclient
